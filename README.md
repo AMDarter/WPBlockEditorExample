@@ -6,6 +6,8 @@ A plugin to add a custom block to the WordPress block editor.
 
 This plugin demonstrates how to create a custom block for the WordPress block editor (Gutenberg) using React and the WordPress Scripts package.
 
+![Custom Block Plugin](./custom-block-plugin.png)
+
 ## Prerequisites
 
 - WordPress installation
