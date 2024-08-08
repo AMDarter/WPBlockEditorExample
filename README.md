@@ -40,7 +40,7 @@ This plugin demonstrates how to create a custom block for the WordPress block ed
 
 ## Development
 ### Project Structure
-```perl
+```txt
 my-plugin/
 ├── build/
 │   ├── index.asset.php

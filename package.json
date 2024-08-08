@@ -4,13 +4,12 @@
     "description": "A simple example of a custom block for the WordPress block editor.",
     "main": "index.js",
     "scripts": {
-      "build": "wp-scripts build",
-      "start": "wp-scripts start"
+        "build": "wp-scripts build",
+        "start": "wp-scripts start"
     },
     "author": "",
-    "license": "ISC",
+    "license": "MIT",
     "devDependencies": {
-      "@wordpress/scripts": "^24.0.0"
+        "@wordpress/scripts": "^24.0.0"
     }
-  }
-  
+}
