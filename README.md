@@ -66,3 +66,6 @@ Clearing npm Cache (if needed)
 ```bash
 npm cache clean --force
 ```
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
